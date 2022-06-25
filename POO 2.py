@@ -4,7 +4,7 @@ class user():
         
         self.name = name
         self.age = age #hey
-        self.salary = salary
+        self.salary = salary #youh
         self.debts = debts
 
     # def user_data(name):    
