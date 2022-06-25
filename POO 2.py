@@ -3,7 +3,7 @@ class user():
     def __init__(self, name, age, salary, debts):
         
         self.name = name
-        self.age = age
+        self.age = age #hey
         self.salary = salary
         self.debts = debts
 
